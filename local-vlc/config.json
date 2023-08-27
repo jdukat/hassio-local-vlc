@@ -1,10 +1,10 @@
 {
-    "name": "Local VLC",
-    "version": "18",
-    "slug": "local_vlc",
+    "name": "Local VLC JD",
+    "version": "1",
+    "slug": "local_vlc_jd",
     "description": "Play multimedia locally using VLC player",
     "url": "https://github.com/jdukat/hassio-local-vlc",    
-    "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+    "arch": ["amd64"],
     "startup": "application",
     "boot": "auto",
     "options": {
