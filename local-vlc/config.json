@@ -16,6 +16,8 @@
         "http_password": "str"
     },
     "audio": true,
+    "devices": "/dev/snd",
+    "host_dbus": true,
     "ports":{
         "9892/tcp":9892,
         "4212/tcp":4212
