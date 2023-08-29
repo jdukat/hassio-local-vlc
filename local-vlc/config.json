@@ -1,6 +1,6 @@
 {
     "name": "Local VLC JD",
-    "version": "1",
+    "version": "2",
     "slug": "local_vlc_jd",
     "description": "Play multimedia locally using VLC player",
     "url": "https://github.com/jdukat/hassio-local-vlc",    
